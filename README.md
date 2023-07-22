@@ -1,2 +1,3 @@
 # Netflix_clone
-<img src="blob:https://imgur.com/26853dad-2e09-4f43-a43b-f0653ab57811"></img>
+![Screenshot 2023-07-22 161116](https://github.com/Parag003/netflix_clone/assets/113838495/c116ea53-d35e-42b7-9a86-b8e85bf63ec7)
+
